@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 class Node {
 
-    public Node(int val1) {
+    public Node(int val) {
 
-        value = val1;
+        value = val;
         left = null;
         right = null;
 
